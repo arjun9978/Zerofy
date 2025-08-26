@@ -1,4 +1,4 @@
-# Zerofy - Zerodha Clone  
+# Zerofy - Stock trading platform
 
 Zerofy is a **Zerodha-inspired stock trading platform clone** built for learning and demonstration purposes.  
 It replicates the core features and UI/UX of Zerodha, one of India’s most popular stock trading platforms.  
